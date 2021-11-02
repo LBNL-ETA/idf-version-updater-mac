@@ -1,0 +1,1 @@
+# idf-version-updater-mac
