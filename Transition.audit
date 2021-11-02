@@ -1,0 +1,6 @@
+Conversion 9.4 => 9.5
+ Starting new Transition.audit
+ Will create new full IDFs
+ Will create new IDF lines with units where applicable
+ Will create new IDF lines leaving blank incoming fields as blank (no default fill)
+ Processing IDF -- workfolder/SF_100/bldg_3981210_12328/model_origin.idf
